@@ -8,7 +8,7 @@ export const InputScreen = () => {
         <ButtonCustom titleButton="Cadastrar" />
         <ButtonCustom 
           titleButton="Entrar" 
-          styleContainer={{backgroundColor: "#FFC42D" }} 
+          styleContainer={{backgroundColor: "#F545F5" }} 
           styleText={{color: "#FFF"}}
         />
       </View>
